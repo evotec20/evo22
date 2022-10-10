@@ -1,0 +1,15 @@
+[submodule "account-financial-reporting"]
+	path = account-financial-reporting
+	url = https://github.com/oca/account-financial-reporting.git
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = https://github.com/oca/account-financial-tools.git
+[submodule "l10n-italy"]
+	path = l10n-italy
+	url = https://github.com/oca/l10n-italy
+[submodule "partner-contact"]
+	path = partner-contact
+	url = https://github.com/oca/partner-contact
+[submodule "server-ux"]
+	path = server-ux
+	url = https://github.com/oca/server-ux
